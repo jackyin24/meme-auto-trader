@@ -1,0 +1,4 @@
+*.log
+meme_trader_state.json
+__pycache__/
+*.pyc
