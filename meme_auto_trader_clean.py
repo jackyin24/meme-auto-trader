@@ -39,7 +39,7 @@ PAUSE_DURATION_MIN = 60  # 暂停时长（分钟）
 
 # 过滤阈值
 FILTERS = {
-    "top10_pct_max": 20,
+    "top10_pct_max": 25,
     "bundle_pct_max": 20,
     "new_wallet_pct_max": 20,
     "price_change_24h_min": -50,
