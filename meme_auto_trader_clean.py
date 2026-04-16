@@ -25,7 +25,7 @@ TOKEN_QUERY_URL = "https://www.xxyy.io/api/trade/open/api/query"
 WALLET_INFO_URL = "https://www.xxyy.io/api/trade/open/api/wallet/info"
 PNL_URL = "https://www.xxyy.io/api/trade/open/api/pnl"
 
-BUY_AMOUNT_BNB = 0.01
+BUY_AMOUNT_BNB = 0.04
 GAS_TIP = 1
 POLL_INTERVAL = 5
 MAX_POSITIONS = 4
