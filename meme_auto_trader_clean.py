@@ -44,7 +44,7 @@ FILTERS = {
     "new_wallet_pct_max": 20,
     "price_change_24h_min": -50,
     "holder_min": 50,
-    "max_age_min": 30,
+    "max_age_min": 60,
 }
 
 HEADERS = {
